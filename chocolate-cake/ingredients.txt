@@ -5,4 +5,5 @@ flour
 egg white + yellow
 cocoa
 powder sugar
+banana
 
